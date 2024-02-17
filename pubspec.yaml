@@ -1,0 +1,18 @@
+name: last_focused_listview
+description: " This Flutter package provides a way to render a ListView widget efficiently starting with the last item in the data list. If you want to use lazy-loading and starting with the last item, without scroll jump or animate, This package will help you."
+version: 0.0.1
+repository: https://github.com/Bakbongdo/last_focused_listview.git
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
